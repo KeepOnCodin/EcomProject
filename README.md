@@ -24,7 +24,7 @@
 > - Database best practices and creation(PostgreSQL)
 > - RESTful API guidelines.
 
-Upcoming Porjects:
+Upcoming Projects:
 - Reddit Client(React.js/Redux Application).
 - Fullstack PERN Application.
 
