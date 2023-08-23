@@ -1,6 +1,6 @@
 # Ecommerce REST API
 
-**For this project I built a E-commerce REST API using my knowledge of server-side development. This API allows user make the following requests:**
+**For this project I built a E-commerce REST API using my knowledge of server-side development. This API allows the user to make the following requests:**
 > - Allow users to register and log in via the API
 > - Allow CRUD operations on products
 > - Allow CRUD operations on user accounts
